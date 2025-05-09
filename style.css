@@ -3,13 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+ 
 body {
   height: 100vh;
   font-family: "Space Grotesk", sans-serif;
   font-optical-sizing: auto;
   position: relative;
-  background-image: url(bg.jpg.jpg);
+  background-image: url(keindahan-alam-di-indonesia-1.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -40,7 +40,7 @@ section main img {
   width: 100px;
   border-radius: 200%;
   aspect-ratio: 1;
-  box-shadow: 0 0 5px 1px rebeccapurple;
+  box-shadow: 0 0 5px 1px rgb(179, 117, 3);
 }
 
 section main h2 {
